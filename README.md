@@ -4,7 +4,8 @@
 ---
 This data analysis project aims to provide insights into the sales performance of a food company. By analyzing various aspects of the sales data, we seek identify trends, and gain a better understanding of sales, products and clients.
 
-![Sales](https://github.com/user-attachments/assets/7df1c4c6-2e88-47a6-ac49-f53475fff739)
+![Dashboard](https://github.com/user-attachments/assets/f74744eb-8766-455b-9c2f-38ca122e82f0)
+
 
 ### Data sources
 
